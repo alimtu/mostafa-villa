@@ -1,0 +1,11 @@
+# robots.txt for aboutali.ir
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://www.aboutali.ir/sitemap.xml
+
+# Crawl-delay (optional, for politeness)
+Crawl-delay: 1
+
